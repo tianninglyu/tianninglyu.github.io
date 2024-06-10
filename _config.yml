@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianning LYU"
+title                    : "Tianning Lyu"
 title_separator          : "-"
-name                     : &name "Tianning LYU"
+name                     : &name "Tianning Lyu"
 description              : &description "Undergraduate student at Zhejiang University"
 url                      : https://tianninglyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianning LYU"
+  name             : "Tianning Lyu"
   avatar           : "profile.png"
   bio              : "Undergraduate student at Zhejiang University, major in physics"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "tianninglyu@gmail.com"
+  email            : "tianninglyu@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
